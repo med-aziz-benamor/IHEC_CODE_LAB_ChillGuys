@@ -1,0 +1,62 @@
+{
+  "TN8GHX6XE469": {
+    "name": "MNP DS 7/26 040523",
+    "avg_daily_volume": 835234.5,
+    "trading_days": 16,
+    "avg_price": 0.0925
+  },
+  "TN0007400013": {
+    "name": "CARTHAGE CEMENT   ",
+    "avg_daily_volume": 128205.76709613479,
+    "trading_days": 1009,
+    "avg_price": 1.8790683845391476
+  },
+  "TN0007250012": {
+    "name": "ADWYA             ",
+    "avg_daily_volume": 85904.57088122606,
+    "trading_days": 261,
+    "avg_price": 5.472873563218391
+  },
+  "TN0007530017": {
+    "name": "ONE TECH HOLDING  ",
+    "avg_daily_volume": 48159.45986124876,
+    "trading_days": 1009,
+    "avg_price": 8.379712586719526
+  },
+  "TN0001100254": {
+    "name": "SFBT              ",
+    "avg_daily_volume": 38458.156590683844,
+    "trading_days": 1009,
+    "avg_price": 13.540406342913776
+  },
+  "TN0007610017": {
+    "name": "SAH               ",
+    "avg_daily_volume": 36742.50049554014,
+    "trading_days": 1009,
+    "avg_price": 9.887482656095143
+  },
+  "TN0007630015": {
+    "name": "SOTIPAPIER        ",
+    "avg_daily_volume": 35087.708622398415,
+    "trading_days": 1009,
+    "avg_price": 5.3043012884043605
+  },
+  "TN0002200053": {
+    "name": "BT                ",
+    "avg_daily_volume": 30385.52329038652,
+    "trading_days": 1009,
+    "avg_price": 5.267522299306244
+  },
+  "TN0006780019": {
+    "name": "SOMOCER           ",
+    "avg_daily_volume": 28349.470763131812,
+    "trading_days": 1009,
+    "avg_price": 0.6590584737363726
+  },
+  "TN0007270010": {
+    "name": "TPR               ",
+    "avg_daily_volume": 27774.779980178395,
+    "trading_days": 1009,
+    "avg_price": 5.992834489593657
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "TN0007400013": {
+    "name": "CARTHAGE CEMENT",
+    "avg_daily_volume": null,
+    "trading_days": 1005,
+    "total_volume": 129359619.0,
+    "total_capital": 246087770.9
+  },
+  "TN0001100254": {
+    "name": "SFBT",
+    "avg_daily_volume": null,
+    "trading_days": 1008,
+    "total_volume": 38804280.0,
+    "total_capital": 517925923.28
+  },
+  "TN0007610017": {
+    "name": "SAH",
+    "avg_daily_volume": null,
+    "trading_days": 1008,
+    "total_volume": 37073183.0,
+    "total_capital": 357884576.05
+  },
+  "TN0007530017": {
+    "name": "ONE TECH HOLDING",
+    "avg_daily_volume": null,
+    "trading_days": 999,
+    "total_volume": 48592895.0,
+    "total_capital": 453226995.39
+  },
+  "TN0006560015": {
+    "name": "SOTUVER",
+    "avg_daily_volume": null,
+    "trading_days": 1004,
+    "total_volume": 27627026.0,
+    "total_capital": 320236205.3
+  },
+  "TN0007630015": {
+    "name": "SOTIPAPIER",
+    "avg_daily_volume": null,
+    "trading_days": 985,
+    "total_volume": 35403498.0,
+    "total_capital": 237567640.39000002
+  },
+  "TN0007270010": {
+    "name": "TPR",
+    "avg_daily_volume": null,
+    "trading_days": 991,
+    "total_volume": 28024753.0,
+    "total_capital": 216415607.06
+  },
+  "TN0002200053": {
+    "name": "BT",
+    "avg_daily_volume": null,
+    "trading_days": 1004,
+    "total_volume": 30658993.0,
+    "total_capital": 163967552.6
+  },
+  "TN0003400058": {
+    "name": "AMEN BANK",
+    "avg_daily_volume": null,
+    "trading_days": 962,
+    "total_volume": 11889408.0,
+    "total_capital": 428035991.86
+  },
+  "TN0005700018": {
+    "name": "POULINA GP HOLDING",
+    "avg_daily_volume": null,
+    "trading_days": 960,
+    "total_volume": 18940976.0,
+    "total_capital": 245900868.62
+  }
+}

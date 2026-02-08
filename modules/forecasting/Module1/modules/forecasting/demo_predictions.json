@@ -1,0 +1,827 @@
+{
+  "TN0007400013": {
+    "stock_code": "TN0007400013",
+    "stock_name": "CARTHAGE CEMENT",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 1.798,
+        "confidence": 0.95,
+        "lower_bound": 1.708,
+        "upper_bound": 1.876
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 1.797,
+        "confidence": 0.95,
+        "lower_bound": 1.707,
+        "upper_bound": 1.884
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 1.799,
+        "confidence": 0.95,
+        "lower_bound": 1.716,
+        "upper_bound": 1.887
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 1.802,
+        "confidence": 0.95,
+        "lower_bound": 1.714,
+        "upper_bound": 1.886
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 1.803,
+        "confidence": 0.95,
+        "lower_bound": 1.72,
+        "upper_bound": 1.889
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.1588,
+      "mae": 0.1583,
+      "mape": 8.39,
+      "directional_accuracy": 88.89,
+      "training_time_sec": 0.359,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 1.88,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:17"
+  },
+  "TN0001100254": {
+    "stock_code": "TN0001100254",
+    "stock_name": "SFBT",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 12.044,
+        "confidence": 0.95,
+        "lower_bound": 11.47,
+        "upper_bound": 12.662
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 11.999,
+        "confidence": 0.95,
+        "lower_bound": 11.405,
+        "upper_bound": 12.569
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 11.965,
+        "confidence": 0.95,
+        "lower_bound": 11.386,
+        "upper_bound": 12.593
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 11.933,
+        "confidence": 0.95,
+        "lower_bound": 11.309,
+        "upper_bound": 12.563
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 11.896,
+        "confidence": 0.95,
+        "lower_bound": 11.251,
+        "upper_bound": 12.484
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.1758,
+      "mae": 0.1475,
+      "mape": 1.18,
+      "directional_accuracy": 33.33,
+      "training_time_sec": 0.299,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 12.6,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:17"
+  },
+  "TN0007610017": {
+    "stock_code": "TN0007610017",
+    "stock_name": "SAH",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 13.657,
+        "confidence": 0.95,
+        "lower_bound": 13.19,
+        "upper_bound": 14.142
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 13.664,
+        "confidence": 0.95,
+        "lower_bound": 13.17,
+        "upper_bound": 14.157
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 13.695,
+        "confidence": 0.95,
+        "lower_bound": 13.217,
+        "upper_bound": 14.167
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 13.728,
+        "confidence": 0.95,
+        "lower_bound": 13.223,
+        "upper_bound": 14.212
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 13.735,
+        "confidence": 0.95,
+        "lower_bound": 13.238,
+        "upper_bound": 14.188
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.5005,
+      "mae": 0.4817,
+      "mape": 3.47,
+      "directional_accuracy": 44.44,
+      "training_time_sec": 0.391,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 13.9,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:18"
+  },
+  "TN0007530017": {
+    "stock_code": "TN0007530017",
+    "stock_name": "ONE TECH HOLDING",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 8.481,
+        "confidence": 0.95,
+        "lower_bound": 8.199,
+        "upper_bound": 8.788
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 8.463,
+        "confidence": 0.95,
+        "lower_bound": 8.136,
+        "upper_bound": 8.789
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 8.436,
+        "confidence": 0.95,
+        "lower_bound": 8.119,
+        "upper_bound": 8.75
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 8.401,
+        "confidence": 0.95,
+        "lower_bound": 8.095,
+        "upper_bound": 8.73
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 8.363,
+        "confidence": 0.95,
+        "lower_bound": 8.014,
+        "upper_bound": 8.696
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.3193,
+      "mae": 0.3144,
+      "mape": 3.58,
+      "directional_accuracy": 77.78,
+      "training_time_sec": 0.196,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 8.75,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:18"
+  },
+  "TN0006560015": {
+    "stock_code": "TN0006560015",
+    "stock_name": "SOTUVER",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 13.594,
+        "confidence": 0.949,
+        "lower_bound": 12.982,
+        "upper_bound": 14.19
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 13.586,
+        "confidence": 0.95,
+        "lower_bound": 12.998,
+        "upper_bound": 14.161
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 13.608,
+        "confidence": 0.95,
+        "lower_bound": 12.989,
+        "upper_bound": 14.169
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 13.649,
+        "confidence": 0.948,
+        "lower_bound": 13.043,
+        "upper_bound": 14.264
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 13.683,
+        "confidence": 0.95,
+        "lower_bound": 13.094,
+        "upper_bound": 14.256
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.2434,
+      "mae": 0.2158,
+      "mape": 1.58,
+      "directional_accuracy": 55.56,
+      "training_time_sec": 0.264,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 13.7,
+    "trend": "sideways",
+    "prediction_date": "2026-02-08 04:18"
+  },
+  "TN0007630015": {
+    "stock_code": "TN0007630015",
+    "stock_name": "SOTIPAPIER",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 2.662,
+        "confidence": 0.941,
+        "lower_bound": 2.356,
+        "upper_bound": 2.98
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 2.651,
+        "confidence": 0.942,
+        "lower_bound": 2.347,
+        "upper_bound": 2.962
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 2.647,
+        "confidence": 0.945,
+        "lower_bound": 2.368,
+        "upper_bound": 2.945
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 2.646,
+        "confidence": 0.944,
+        "lower_bound": 2.358,
+        "upper_bound": 2.948
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 2.64,
+        "confidence": 0.942,
+        "lower_bound": 2.326,
+        "upper_bound": 2.935
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.0894,
+      "mae": 0.0865,
+      "mape": 3.08,
+      "directional_accuracy": 88.89,
+      "training_time_sec": 0.263,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 2.78,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:19"
+  },
+  "TN0007270010": {
+    "stock_code": "TN0007270010",
+    "stock_name": "TPR",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 10.692,
+        "confidence": 0.946,
+        "lower_bound": 10.349,
+        "upper_bound": 11.019
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 10.61,
+        "confidence": 0.944,
+        "lower_bound": 10.251,
+        "upper_bound": 10.939
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 10.575,
+        "confidence": 0.945,
+        "lower_bound": 10.228,
+        "upper_bound": 10.903
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 10.592,
+        "confidence": 0.947,
+        "lower_bound": 10.289,
+        "upper_bound": 10.941
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 10.628,
+        "confidence": 0.945,
+        "lower_bound": 10.275,
+        "upper_bound": 10.954
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.9049,
+      "mae": 0.8222,
+      "mape": 7.33,
+      "directional_accuracy": 44.44,
+      "training_time_sec": 0.277,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 11.5,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:19"
+  },
+  "TN0002200053": {
+    "stock_code": "TN0002200053",
+    "stock_name": "BT",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 6.639,
+        "confidence": 0.95,
+        "lower_bound": 6.369,
+        "upper_bound": 6.873
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 6.668,
+        "confidence": 0.95,
+        "lower_bound": 6.427,
+        "upper_bound": 6.888
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 6.673,
+        "confidence": 0.95,
+        "lower_bound": 6.446,
+        "upper_bound": 6.94
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 6.665,
+        "confidence": 0.95,
+        "lower_bound": 6.405,
+        "upper_bound": 6.923
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 6.662,
+        "confidence": 0.95,
+        "lower_bound": 6.416,
+        "upper_bound": 6.914
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.273,
+      "mae": 0.2456,
+      "mape": 3.88,
+      "directional_accuracy": 11.11,
+      "training_time_sec": 0.286,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 6.4,
+    "trend": "upward",
+    "prediction_date": "2026-02-08 04:19"
+  },
+  "TN0003400058": {
+    "stock_code": "TN0003400058",
+    "stock_name": "AMEN BANK",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 48.807,
+        "confidence": 0.945,
+        "lower_bound": 46.752,
+        "upper_bound": 50.701
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 48.853,
+        "confidence": 0.949,
+        "lower_bound": 46.973,
+        "upper_bound": 50.655
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 48.997,
+        "confidence": 0.95,
+        "lower_bound": 47.334,
+        "upper_bound": 50.893
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 49.184,
+        "confidence": 0.948,
+        "lower_bound": 47.299,
+        "upper_bound": 51.053
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 49.317,
+        "confidence": 0.95,
+        "lower_bound": 47.703,
+        "upper_bound": 51.05
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.6849,
+      "mae": 0.5575,
+      "mape": 1.14,
+      "directional_accuracy": 66.67,
+      "training_time_sec": 0.244,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 50.0,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:19"
+  },
+  "TN0005700018": {
+    "stock_code": "TN0005700018",
+    "stock_name": "POULINA GP HOLDING",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 18.72,
+        "confidence": 0.946,
+        "lower_bound": 18.191,
+        "upper_bound": 19.256
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 18.741,
+        "confidence": 0.944,
+        "lower_bound": 18.167,
+        "upper_bound": 19.287
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 18.779,
+        "confidence": 0.946,
+        "lower_bound": 18.246,
+        "upper_bound": 19.324
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 18.835,
+        "confidence": 0.946,
+        "lower_bound": 18.331,
+        "upper_bound": 19.4
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 18.897,
+        "confidence": 0.946,
+        "lower_bound": 18.381,
+        "upper_bound": 19.454
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.5148,
+      "mae": 0.5095,
+      "mape": 2.8,
+      "directional_accuracy": 66.67,
+      "training_time_sec": 0.34,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 18.5,
+    "trend": "upward",
+    "prediction_date": "2026-02-08 04:20"
+  },
+  "TN0003100609": {
+    "stock_code": "TN0003100609",
+    "stock_name": "BNA",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 12.322,
+        "confidence": 0.931,
+        "lower_bound": 11.724,
+        "upper_bound": 12.913
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 12.332,
+        "confidence": 0.928,
+        "lower_bound": 11.653,
+        "upper_bound": 12.882
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 12.351,
+        "confidence": 0.93,
+        "lower_bound": 11.747,
+        "upper_bound": 12.945
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 12.371,
+        "confidence": 0.932,
+        "lower_bound": 11.792,
+        "upper_bound": 12.957
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 12.379,
+        "confidence": 0.931,
+        "lower_bound": 11.811,
+        "upper_bound": 12.989
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.5042,
+      "mae": 0.4982,
+      "mape": 4.14,
+      "directional_accuracy": 33.33,
+      "training_time_sec": 0.307,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 12.07,
+    "trend": "upward",
+    "prediction_date": "2026-02-08 04:20"
+  },
+  "TN0003600350": {
+    "stock_code": "TN0003600350",
+    "stock_name": "ATB",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 3.461,
+        "confidence": 0.926,
+        "lower_bound": 3.228,
+        "upper_bound": 3.669
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 3.453,
+        "confidence": 0.924,
+        "lower_bound": 3.23,
+        "upper_bound": 3.684
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 3.452,
+        "confidence": 0.925,
+        "lower_bound": 3.23,
+        "upper_bound": 3.679
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 3.45,
+        "confidence": 0.925,
+        "lower_bound": 3.228,
+        "upper_bound": 3.674
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 3.44,
+        "confidence": 0.926,
+        "lower_bound": 3.223,
+        "upper_bound": 3.663
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.2648,
+      "mae": 0.2442,
+      "mape": 6.51,
+      "directional_accuracy": 55.56,
+      "training_time_sec": 0.255,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 3.79,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:20"
+  },
+  "TN0007720014": {
+    "stock_code": "TN0007720014",
+    "stock_name": "UNIMED",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 8.605,
+        "confidence": 0.947,
+        "lower_bound": 8.196,
+        "upper_bound": 8.985
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 8.589,
+        "confidence": 0.945,
+        "lower_bound": 8.195,
+        "upper_bound": 9.025
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 8.564,
+        "confidence": 0.948,
+        "lower_bound": 8.161,
+        "upper_bound": 8.942
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 8.533,
+        "confidence": 0.947,
+        "lower_bound": 8.135,
+        "upper_bound": 8.927
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 8.502,
+        "confidence": 0.949,
+        "lower_bound": 8.136,
+        "upper_bound": 8.892
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.6074,
+      "mae": 0.5796,
+      "mape": 6.37,
+      "directional_accuracy": 44.44,
+      "training_time_sec": 0.209,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 9.45,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:20"
+  },
+  "TN0001600154": {
+    "stock_code": "TN0001600154",
+    "stock_name": "ATTIJARI BANK",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 67.779,
+        "confidence": 0.944,
+        "lower_bound": 65.048,
+        "upper_bound": 70.589
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 68.034,
+        "confidence": 0.947,
+        "lower_bound": 65.514,
+        "upper_bound": 70.728
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 68.478,
+        "confidence": 0.943,
+        "lower_bound": 65.731,
+        "upper_bound": 71.323
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 69.015,
+        "confidence": 0.944,
+        "lower_bound": 66.288,
+        "upper_bound": 71.795
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 69.466,
+        "confidence": 0.944,
+        "lower_bound": 66.683,
+        "upper_bound": 72.207
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 0.9727,
+      "mae": 0.8969,
+      "mape": 1.35,
+      "directional_accuracy": 44.44,
+      "training_time_sec": 0.359,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 66.89,
+    "trend": "upward",
+    "prediction_date": "2026-02-08 04:20"
+  },
+  "TN0007670011": {
+    "stock_code": "TN0007670011",
+    "stock_name": "DELICE HOLDING",
+    "predictions": [
+      {
+        "date": "2026-01-01",
+        "predicted_close": 9.971,
+        "confidence": 0.826,
+        "lower_bound": 7.56,
+        "upper_bound": 12.563
+      },
+      {
+        "date": "2026-01-02",
+        "predicted_close": 9.8,
+        "confidence": 0.826,
+        "lower_bound": 7.287,
+        "upper_bound": 12.304
+      },
+      {
+        "date": "2026-01-03",
+        "predicted_close": 9.697,
+        "confidence": 0.824,
+        "lower_bound": 7.057,
+        "upper_bound": 12.114
+      },
+      {
+        "date": "2026-01-04",
+        "predicted_close": 9.615,
+        "confidence": 0.831,
+        "lower_bound": 7.137,
+        "upper_bound": 12.002
+      },
+      {
+        "date": "2026-01-05",
+        "predicted_close": 9.511,
+        "confidence": 0.827,
+        "lower_bound": 7.016,
+        "upper_bound": 12.004
+      }
+    ],
+    "model_used": "prophet",
+    "metrics": {
+      "rmse": 2.9739,
+      "mae": 2.9684,
+      "mape": 22.92,
+      "directional_accuracy": 66.67,
+      "training_time_sec": 0.224,
+      "data_points_used": 900,
+      "train_window_days": 900,
+      "val_horizon_days": 10
+    },
+    "last_actual_close": 12.9,
+    "trend": "downward",
+    "prediction_date": "2026-02-08 04:21"
+  }
+}

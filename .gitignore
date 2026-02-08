@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+ENV/
+env/
+.venv
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data cache
+*.cache
+.streamlit/
+
+# Logs
+*.log
+
+# Model files (if large)
+*.pkl
+*.joblib
+*.h5
+*.pth
+
+# Temporary files
+*.tmp
+tmp/
+temp/
